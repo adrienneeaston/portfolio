@@ -427,7 +427,7 @@ button,
             }
 
                 #nav ul li a.active span:before {
-                    color: #e27689;
+                    color: green;
                 }
 
 /* Footer */
@@ -505,8 +505,8 @@ button,
         }
 
         #main > section.one {
-            background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-color: rgb(25, 16, 70);
+            /* background-image: url("../../images/banner.jpg"); */
         }
 
         #main > section.two {
