@@ -57,6 +57,17 @@ Estimate of time needed to complete: 3 hour
 
 Start time: 2:50pm
 
-Finish time: 
+Finish time: 5:00pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 2.5 hours, not complete 
+
+
+Number and name of feature: Feature #2 - Modify the Content
+
+Estimate of time needed to complete: 3 hour
+
+Start time: 7:00pm
+
+Finish time: 10:00pm
+
+Actual time needed to complete: 3 hours, 5.5 hours total
