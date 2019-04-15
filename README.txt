@@ -40,12 +40,34 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
-Number and name of feature: Feature # - Refeactor the CSS
+Number and name of feature: Feature #1 - Refeactor the CSS
 
 Estimate of time needed to complete: 1 hour
 
 Start time: 2:15pm
 
-Finish time: _____
+Finish time: 2:45pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30min
+
+
+Number and name of feature: Feature #2 - Modify the Content
+
+Estimate of time needed to complete: 3 hour
+
+Start time: 2:50pm
+
+Finish time: 5:00pm
+
+Actual time needed to complete: 2.5 hours, not complete 
+
+
+Number and name of feature: Feature #2 - Modify the Content
+
+Estimate of time needed to complete: 3 hour
+
+Start time: 7:00pm
+
+Finish time: 10:00pm
+
+Actual time needed to complete: 3 hours, 5.5 hours total
